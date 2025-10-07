@@ -13,4 +13,6 @@ console.log(fruits.get("Apple"));
 console.log(fruits.has("Apple"));
 console.log(fruits.size);
 console.log(fruits.delete("Apple"));
-console.log(fruits)
+console.log(fruits);
+fruits.clear();
+console.log(fruits);
